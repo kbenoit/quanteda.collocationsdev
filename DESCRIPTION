@@ -1,0 +1,30 @@
+Package: quanteda.collocationsdev
+Version: 1.0
+Title: quanteda extensions for collocations research
+Description: Extensions to quanteda for developmental collocations functions.
+Authors@R: c( person("Kenneth", "Benoit", email = "kbenoit@lse.ac.uk", role =
+    c("aut", "cre")), 
+    person("Kohei", "Watanabe", email = "watanabe.kohei@gmail.com", role = c("aut", "ctb")), 
+    person("Haiyan", "Wang", email = "h.wang52@lse.ac.uk", role = c("aut", "ctb")),
+    person("Jouni", "Kuha", email = "j.kuha@lse.ac.uk", role = "ctb") )
+License: GPL-3
+Depends:
+    quanteda
+Imports:
+    Rcpp (>= 0.12.12),
+    RcppParallel
+Suggests:
+    knitr,
+    rmarkdown,
+LinkingTo: Rcpp, RcppParallel
+URL: http://github.com/kbenoit/quanteda.collocationsdev
+Encoding: UTF-8
+BugReports: https://github.com/kbenoit/quanteda.collocationsdev/issues
+LazyData: TRUE
+VignetteBuilder: knitr
+Collate: 
+    RcppExports.R
+    textstat_collocationsdev.R
+RcppModules: ngramMaker
+RoxygenNote: 6.0.1
+SystemRequirements: C++11

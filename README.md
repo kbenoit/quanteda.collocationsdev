@@ -2,7 +2,7 @@
 # quanteda.collocationsdev
 
 [![CRAN
-Version](https://www.r-pkg.org/badges/version/quanteda)](https://CRAN.R-project.org/package=quanteda.collocationsdev)
+Version](https://www.r-pkg.org/badges/version/quanteda.collocationsdev)](https://CRAN.R-project.org/package=quanteda.collocationsdev)
 [![Travis-CI Build
 Status](https://travis-ci.org/kbenoit/quanteda.collocationsdev.svg?branch=master)](https://travis-ci.org/kbenoit/quanteda.collocationsdev)
 [![AppVeyor Build

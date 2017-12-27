@@ -13,10 +13,10 @@ knitr::opts_chunk$set(
 
 # quanteda.collocationsdev
 
-[![CRAN Version](https://www.r-pkg.org/badges/version/quanteda)](https://CRAN.R-project.org/package=quanteda)
-[![Travis-CI Build Status](https://travis-ci.org/kbenoit/quanteda.svg?branch=master)](https://travis-ci.org/kbenoit/quanteda.collocationsdev)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e3tf2h1ff0nlv249/branch/master?svg=true)](https://ci.appveyor.com/project/kbenoit/quanteda.collocationsdev/branch/master)
-[![codecov](https://codecov.io/gh/kbenoit/quanteda/branch/master/graph/badge.svg)](https://codecov.io/gh/kbenoit/quanteda.collocationsdev) 
+[![CRAN Version](https://www.r-pkg.org/badges/version/quanteda)](https://CRAN.R-project.org/package=quanteda.collocationsdev)
+[![Travis-CI Build Status](https://travis-ci.org/kbenoit/quanteda.collocationsdev.svg?branch=master)](https://travis-ci.org/kbenoit/quanteda.collocationsdev)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/kbenoit/quanteda.collocationsdev?branch=master&svg=true)](https://ci.appveyor.com/project/kbenoit/quanteda.collocationsdev)
+[![Coverage Status](https://img.shields.io/codecov/c/github/kbenoit/quanteda.collocationsdev/master.svg)](https://codecov.io/github/kbenoit/quanteda.collocationsdev?branch=master)
 
 ## About
 

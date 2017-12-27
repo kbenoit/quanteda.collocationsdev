@@ -15,14 +15,15 @@ Imports:
     RcppParallel
 Suggests:
     knitr,
-    rmarkdown,
+    rmarkdown,,
+    covr
 LinkingTo: Rcpp, RcppParallel
 URL: http://github.com/kbenoit/quanteda.collocationsdev
 Encoding: UTF-8
 BugReports: https://github.com/kbenoit/quanteda.collocationsdev/issues
 LazyData: TRUE
 VignetteBuilder: knitr
-Collate: 
+Collate:
     RcppExports.R
     textstat_collocationsdev.R
 RcppModules: ngramMaker
